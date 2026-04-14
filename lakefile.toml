@@ -1,0 +1,10 @@
+name = "Formalization-of-Combinatorial-Theorems-in-Lean"
+version = "0.1.0"
+defaultTargets = ["formalization-of-combinatorial-theorems-in-lean"]
+
+[[lean_lib]]
+name = "FormalizationOfCombinatorialTheoremsInLean"
+
+[[lean_exe]]
+name = "formalization-of-combinatorial-theorems-in-lean"
+root = "Main"
